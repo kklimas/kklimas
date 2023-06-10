@@ -1,3 +1,4 @@
+# About
 - 👋 Hi, I’m @kklimas, second year student of Computer Science on University of Science and Technology in Cracow.
 - 👀 I’m interested in tasty food and machine learning :watermelon: :robot: .
 - 🌱 I’m currently learning technologies connected with web development.
@@ -26,3 +27,6 @@
 ![image](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+# Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kklimas&layout=compact&theme=dark)
